@@ -1,0 +1,9 @@
+.pio/
+.vscode/
+src/gw_creds.h
+gw_creds.h
+*.key
+psk.hex
+.env
+.env.*
+*.secret
